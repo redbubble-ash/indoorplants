@@ -1,10 +1,3 @@
-## Deployment
-
-### 🏠 [Homepage](https://indoor-plants.herokuapp.com/)
-
-## Author
-
-- Github: [@elvykiung](https://github.com/elvykiung), [@Jing](https://github.com/redbubble-ash), [@Viktoryia](https://github.com/Victoriaspurlieu), [@karmitage](https://github.com/karmitage)
 
 <h1 align="center">Welcome to Indoor Plants Water Tacking App 👋</h1>
 <p>
@@ -25,6 +18,15 @@
 <h5>
 This is a water traking app for indoor house plants. User able to seach the plants by the plants name or by picture of suggesting plants. Once the user found their plant, the app will allow user to add it into their collection of plants.
 </h5>
+
+## Deployment
+
+### 🏠 [Homepage](https://indoor-plants.herokuapp.com/)
+
+## Author
+
+- Github: [@elvykiung](https://github.com/elvykiung), [@Jing](https://github.com/redbubble-ash), [@Viktoryia](https://github.com/Victoriaspurlieu), [@karmitage](https://github.com/karmitage)
+
 
 ## Install
 
