@@ -1,3 +1,11 @@
+## Deployment
+
+### 🏠 [Homepage](https://indoor-plants.herokuapp.com/)
+
+## Author
+
+- Github: [@elvykiung](https://github.com/elvykiung), [@Jing](https://github.com/redbubble-ash), [@Viktoryia](https://github.com/Victoriaspurlieu), [@karmitage](https://github.com/karmitage)
+
 <h1 align="center">Welcome to Indoor Plants Water Tacking App 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
@@ -136,13 +144,6 @@ On PlantDetail page, we access the "/:plantName" props.id by this.props.match.pa
       .catch(err => console.log(err));
 ```
 
-## Deployment
-
-### 🏠 [Homepage](https://indoor-plants.herokuapp.com/)
-
-## Author
-
-- Github: [@elvykiung](https://github.com/elvykiung), [@Jing](https://github.com/redbubble-ash), [@Viktoryia](https://github.com/Victoriaspurlieu), [@karmitage](https://github.com/karmitage)
 
 ## Show your support
 
